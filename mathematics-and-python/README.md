@@ -1,2 +1,2 @@
-# Домашки по первому курсу специализации "Математика и Python для анализа данных"
+# Математика и Python для анализа данных
 https://www.coursera.org/learn/mathematics-and-python
